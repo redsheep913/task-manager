@@ -73,3 +73,11 @@ task-manager/
 - 權限問題 → `chmod -R 775 storage bootstrap/cache`
 - 清除快取 → `./vendor/bin/sail artisan optimize:clear`
 - 檢查路由 → `./vendor/bin/sail artisan route:list`
+## ❤️‍🔥 Demo展示
+- **Dashboard**
+![Dashboard](public/images/image-2.png)
+- **任務列表**
+![任務列表](public/images/image-1.png)
+- **新增任務**
+![新增任務](public/images/image.png)
+
